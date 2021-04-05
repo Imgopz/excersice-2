@@ -1,0 +1,2 @@
+# Exercise2 :  
+### Assuming there is a ubuntu Linux machine, please create a script to install docker if missing and run elastic search in docker.  Check the health of elastic search from the command line.  
